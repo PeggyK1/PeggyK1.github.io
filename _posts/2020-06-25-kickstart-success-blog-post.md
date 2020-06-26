@@ -1,14 +1,12 @@
 # What Makes A Successful Kickstarter?
 
-
-![Kickstarter](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.KJ8ZXlTyW5CfIi6E9BCDAAHaEc%26pid%3DApi&f=1)
+![Medium](https://i.imgur.com/YQYk6HN.jpg)
 
 >This project is a blog post that looks at conditions that could increase the chances of success when launching a new Kickstarter.
 >The dataset is sourced from kaggle.com. It is a 2018 database of Kickstarter Projects that includes 15 features and 378,661 observations.
 >The blog post is published on medium.com
 >The code notebook was entered in Google Colab
 
-![Medium](https://1drv.ms/u/s!Aq7e9nsaIsT4kzR0o0213z5mN_ti?e=chAieD)
 
 
 ## Research Question
